@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chief17
-- 👀 I’m interested in ... Scripting/Coding
+- 👀 I’m interested in ... Hardware/Networks
 - 🌱 I’m currently learning ... Bash
 
 <!---
