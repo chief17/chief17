@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chief17
 - 👀 I’m interested in ... Hardware/Networks
-- 🌱 I’m currently learning ... Bash
+- 🌱 I’m currently sharpening ... C 
 
 <!---
 chief17/chief17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
